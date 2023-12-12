@@ -4,5 +4,7 @@ This **overwrite_days.py** is designed to update the remaining days before subsc
 
 The **send_mail_alerts.py** automates the process of sending email alerts for subscriptions that are near to expire. It works by reading subscription data from a CSV file, identifying subscriptions that are due to expire within a day, and then using SendGrid's SMTP service to send email alerts. The script handles the entire process from parsing the CSV data to constructing and sending HTML-formatted emails, ensuring users are notified about their expiring subscriptions. 
 
-<img src="https://github.com/MihaiCroitoru12/alert-subscription-manager/assets/147843903/f083b6f4-0b6b-4584-aa79-7f844cc1ad74" alt="sub_alert" width="400" height="500"/>
+<img src="https://github.com/MihaiCroitoru12/alert-subscription-manager/assets/147843903/8e7df12b-f08c-400d-bdb2-b3ec463a6317" alt="sub_alert" width="400" height="500"/>
+
+
 
